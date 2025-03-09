@@ -1,3 +1,0 @@
-2025-03-09 19:49:00.980  INFO 47487 --- [restartedMain] com.example.ccb.CcbApplication           : Started CcbApplication in 2.856 seconds (JVM running for 3.529)
-2025-03-09 19:49:00.982  INFO 47487 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
-2025-03-09 19:49:00.983  INFO 47487 --- [restartedMain] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC

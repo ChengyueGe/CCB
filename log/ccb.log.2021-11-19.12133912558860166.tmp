@@ -1,7 +1,0 @@
-2021-11-19 11:51:54.176  INFO 44533 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
-2021-11-19 11:51:54.566  INFO 44533 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
-2021-11-19 11:51:54.581  INFO 44533 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
-2021-11-19 11:51:54.600  INFO 44533 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
-2021-11-19 11:51:54.732  INFO 44533 --- [main] com.example.ccb.CcbApplicationTests      : Started CcbApplicationTests in 7.974 seconds (JVM running for 8.821)
-2021-11-19 11:51:54.733  INFO 44533 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
-2021-11-19 11:51:54.734  INFO 44533 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
