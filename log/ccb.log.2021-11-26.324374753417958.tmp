@@ -1,0 +1,8 @@
+2021-11-26 08:20:09.236  INFO 6728 --- [main] o.w.s.a.Web3jAutoConfiguration           : Building service for endpoint: http://localhost:7545
+2021-11-26 08:20:09.541  INFO 6728 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-11-26 08:20:09.881  INFO 6728 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-11-26 08:20:09.888  INFO 6728 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-11-26 08:20:09.904  INFO 6728 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-11-26 08:20:09.994  INFO 6728 --- [main] com.example.ccb.CcbApplicationTests      : Started CcbApplicationTests in 7.418 seconds (JVM running for 8.349)
+2021-11-26 08:20:09.994  INFO 6728 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-11-26 08:20:09.995  INFO 6728 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
